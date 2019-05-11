@@ -8,3 +8,4 @@
 
 <p>I LOVE YOU Madhu!!</p>
 
+<img src="Photo/Ganpati-bappa.jpg" alt="Ganpati Bappa Morya">
