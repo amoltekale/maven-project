@@ -8,4 +8,8 @@
 
 <p>I LOVE YOU Madhu!!</p>
 
-<img src="/e/sample/maven-project/webapp/src/main/webapp/Ganpati-bappa.jpg" alt="Ganpati Bappa Morya">
+<body>
+    <div>
+        <img src="http://clipart-library.com/images/BTgraaeec.jpg" alt="Ganpati Bappa Morya">
+    </div>
+</body>
