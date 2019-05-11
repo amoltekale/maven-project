@@ -2,11 +2,13 @@
 
 <p>What about your study ?</p>
 
-<h2>Shreyas - Shaunak are very clever. They are my little champs!!</h2>
+<h1>Shreyas - Shaunak are very clever. They are my little champs!!</h1>
 
-<h3>I LOVE YOU Madhu!!</h3>
+<h1>I LOVE YOU Madhu!!</h1>
 
 <p>I LOVE YOU Madhu!!</p>
+
+<h1>Ganpati Bappa Morya</h1>
 
 <body>
     <div>
