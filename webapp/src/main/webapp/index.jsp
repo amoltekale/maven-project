@@ -12,6 +12,6 @@
 
 <body>
     <div>
-        <img src="E:\sample\maven-project\webapp\src\main\webapp\Ganpati-bappa.jpg" alt="Ganpati Bappa Morya">
+        <img src="E://Ganpati-bappa.jpg" alt="Ganpati Bappa Morya">
     </div>
 </body>
