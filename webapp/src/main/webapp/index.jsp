@@ -10,6 +10,6 @@
 
 <body>
     <div>
-	<img src="/e/sample/maven-project/webapp/src/main/webapp/Ganpati-bappa.jpg" alt="Ganpati Bappa Morya"/>
+	<img src="http://clipart-library.com/images/BTgraaeec.jpg" alt="Ganpati Bappa Morya">
     </div>
 </body>
