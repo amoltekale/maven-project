@@ -12,6 +12,6 @@
 
 <body>
     <div>
-        <img src="E://Ganpati-bappa.jpg" alt="Ganpati Bappa Morya">
+        <img src="E://11.gif" alt="Ganpati Bappa Morya">
     </div>
 </body>
