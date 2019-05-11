@@ -12,6 +12,6 @@
 
 <body>
     <div>
-        <img src="http://clipart-library.com/images/BTgraaeec.jpg" alt="Ganpati Bappa Morya">
+        <img src="https://images-na.ssl-images-amazon.com/images/I/51I7cdg9y2L._SX425_.jpg" alt="Ganpati Bappa Morya">
     </div>
 </body>
