@@ -6,13 +6,8 @@
 
 #I Love You Madhu, my sons!!
 
-<!DOCTYPE html>
-<html>
-<body>
 
 <h1>I LOVE YOU Madhu!!</h1>
 
 <p>I LOVE YOU Madhu!!</p>
 
-</body>
-</html>
