@@ -1,8 +1,8 @@
 Hello Shreyas and Shaunak, How are you my champs?
 
-Shreyas - Shaunak are very clever. They are my little champs!!
+What about your study ?
 
-What about your studies, Shreyas-Shaunak ?
+Shreyas - Shaunak are very clever. They are my little champs!!
 
 I Love You Madhu, my sons!!
 
