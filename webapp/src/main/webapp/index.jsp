@@ -2,7 +2,7 @@
 
 <p>What about your study ?</p>
 
-<h1>Shreyas - Shaunak are very clever. They are my little champs!!</h1>
+<h1>Shreyas - Shaunak are very clever & they are my little champs!!</h1>
 
 <h1>I LOVE YOU Madhu!!</h1>
 
